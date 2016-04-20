@@ -1,0 +1,12 @@
+axis/__init__.py
+axis/axis.py
+axis/static/README.txt
+axis/static/css/axis.css
+axis/static/html/axis.html
+axis/static/js/src/axis.js
+axis_xblock.egg-info/PKG-INFO
+axis_xblock.egg-info/SOURCES.txt
+axis_xblock.egg-info/dependency_links.txt
+axis_xblock.egg-info/entry_points.txt
+axis_xblock.egg-info/requires.txt
+axis_xblock.egg-info/top_level.txt

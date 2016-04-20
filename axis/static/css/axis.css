@@ -1,0 +1,22 @@
+/* CSS for AxisXBlock */
+
+.axis_block .count {
+    font-weight: bold;
+}
+
+.axis_block p {
+    cursor: pointer;
+}
+
+.axis_block .rating {
+    font-weight: bold;
+}
+
+div.version1 {
+	font-weight: bold;
+	display: none;
+}
+
+div.version2 {
+	display: none;
+}
